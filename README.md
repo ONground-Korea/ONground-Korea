@@ -1,5 +1,5 @@
 # Hi there 👋
-**Coala Lab**   
+**Coala Lab CEO**   
 Interested in **Computer Vision, Object Detection, Object Tracking, Self-Driving** 
 
 ## 🌱 I’m currently learning ...
@@ -20,7 +20,7 @@ Interested in **Computer Vision, Object Detection, Object Tracking, Self-Driving
 - 2021.09. - 2021.11. K-startup 창업진흥원 중소벤처기업부 예비창업패키지 선정
 
 ## 😎 Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ONground-Korea&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div><img src="https://github-readme-stats.vercel.app/api?username=ONground-Korea&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 <br/>  
@@ -33,7 +33,7 @@ Interested in **Computer Vision, Object Detection, Object Tracking, Self-Driving
 
 <br/>  
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=ONground-Korea&&style=flat-square" align="center" />
+<div> <img src="https://komarev.com/ghpvc/?username=ONground-Korea&&style=flat-square" align="center" />
 </div>  
   
 
