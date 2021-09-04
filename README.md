@@ -1,6 +1,47 @@
-### Hi there 👋
+# Hi there 👋
+**Coala Lab**   
+Interested in **Computer Vision, Object Detection, Object Tracking, Self-Driving** 
+
+## 🌱 I’m currently learning ...
+
+### Language  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=orange"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+### Library
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> 
+### Tools
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=black"/>
+
+<br/>  
+
+
+## 🔭 I’m currently working on ... 
+**[Coala Lab](http://www.thecoala.io/)**
+- Developing Coding Education Program (Flatform)
+- 2021.09. - 2021.11. K-startup 창업진흥원 중소벤처기업부 예비창업패키지 선정
+
+## 😎 Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ONground-Korea&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
+<br/>  
+
+  
+
+<br/>  
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jisang7747)
+
+<br/>  
+
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=ONground-Korea&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
 
 <!--
 **ONground-Korea/ONground-Korea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
