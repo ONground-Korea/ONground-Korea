@@ -16,11 +16,11 @@ Interested in **Computer Vision, Object Detection, Object Tracking, Self-Driving
 
 ## 🔭 I’m currently working on ... 
 **[Coala Lab](http://www.thecoala.io/)**
-- Developing Coding Education Program (Flatform)
+- Developing Coding Education Program (Platform)
 - 2021.09. - 2021.11. K-startup 창업진흥원 중소벤처기업부 예비창업패키지 선정
 
 ## 😎 Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=ONground-Korea&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div><img src="https://github-readme-stats.vercel.app/api?username=ONground-Korea&show_icons=true&count_private=true&hide_border=true" /></div>  
 
 
 <br/>  
@@ -33,7 +33,7 @@ Interested in **Computer Vision, Object Detection, Object Tracking, Self-Driving
 
 <br/>  
 
-<div> <img src="https://komarev.com/ghpvc/?username=ONground-Korea&&style=flat-square" align="center" />
+<div> <img src="https://komarev.com/ghpvc/?username=ONground-Korea&&style=flat-square" />
 </div>  
   
 
