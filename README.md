@@ -40,8 +40,7 @@ Interested in **Computer Vision, Object Detection, Object Tracking, Self-Driving
 
 <br/>  
 
-<div> <img src="https://komarev.com/ghpvc/?username=ONground-Korea&&style=flat-square" />
-</div>  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonground-korea&count_bg=%23008FD9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   
 
 <br/>  
@@ -63,4 +62,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div> <img src="https://komarev.com/ghpvc/?username=ONground-Korea&&style=flat-square" />
 -->
