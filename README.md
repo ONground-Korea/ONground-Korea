@@ -3,7 +3,7 @@
 
 **Sophomore of Korea University Computer Science**  
 
-Interested in **`Computer Vision`**, `Object Detection`, `Object Tracking, Self-Driving`   
+Interested in **`Computer Vision`**, **`Object Detection`**, **`Object Tracking, Self-Driving`** 
 
 ![](IMG_202109050102470.gif)  
 
