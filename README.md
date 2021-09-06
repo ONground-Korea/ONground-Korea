@@ -1,8 +1,9 @@
 # Hi there 👋
 **Coala Lab CEO**   
+
 **Sophomore of Korea University Computer Science**  
 
-Interested in **Computer Vision, Object Detection, Object Tracking, Self-Driving**   
+Interested in `**Computer Vision**`, `**Object Detection**`, `**Object Tracking, Self-Driving**`   
 
 ![](IMG_202109050102470.gif)  
 
@@ -22,7 +23,7 @@ Interested in **Computer Vision, Object Detection, Object Tracking, Self-Driving
 
 
 ## 🔭 I’m currently working on ... 
-**[Coala Lab](http://www.thecoala.io/)**
+**[Coala Lab](http://www.thecoala.io/)** (2019.12. - )
 - Developing Coding Education Program (Platform)
 - 2021.09. - 2021.11. K-startup 창업진흥원 중소벤처기업부 예비창업패키지 선정
 
