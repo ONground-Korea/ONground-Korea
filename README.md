@@ -1,7 +1,7 @@
 # Hi there 👋
 **Coala Lab CEO**   
 
-**Sophomore of Korea University Computer Science**  
+**Korea University Sophomore - Computer Science**  
 
 Interested in **`Computer Vision`**, **`Object Detection`**, **`Object Tracking`**, **`Self-Driving`** 
 
